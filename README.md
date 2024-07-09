@@ -1,5 +1,5 @@
 ```
-git clone https://github.com/atulkamble/ansible-ec2-webservers.git
+git clone https://github.com/Srujanaboga/ansible-ec2-webservers.git
 cd ansible-ec2-webservers
 ```
 
